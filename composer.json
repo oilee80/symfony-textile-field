@@ -5,14 +5,8 @@
     "type": "library",
     "keywords": ["symfony", "dbal", "entity", "textile"],
     "require": {
-        "netcarver/textile": "3.6.*@dev"
+        "netcarver/textile": "*@dev"
     },
-    "repositories": [
-        {
-            "type": "vcs",
-            "url": "https://github.com/textile/php-textile.git"
-        }
-    ],
     "authors": [
         {
             "name": "Lee Bradley",
