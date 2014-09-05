@@ -5,7 +5,7 @@
     "type": "library",
     "keywords": ["symfony", "dbal", "entity", "textile"],
     "require": {
-        "netcarver/textile": "*@dev"
+        "netcarver/textile": "3.5.*@dev"
     },
     "authors": [
         {
