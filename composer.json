@@ -7,6 +7,12 @@
     "require": {
         "netcarver/textile": "3.6.*@dev"
     },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/textile/php-textile.git"
+        }
+    ],
     "authors": [
         {
             "name": "Lee Bradley",
