@@ -4,6 +4,9 @@
     "version": "0.0.1",
     "type": "library",
     "keywords": ["symfony", "dbal", "entity", "textile"],
+    "require: {
+        "netcarver/textile": "3.6.*@dev"
+    },
     "authors": [
         {
             "name": "Lee Bradley",
