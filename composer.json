@@ -1,0 +1,13 @@
+{
+    "name": "oilee80/symfony-textile-field",
+    "description": "Textile Field Type for Symony2",
+    "version": "0.0.1",
+    "type": "library",
+    "keywords": ["symfony", "dbal", "entity", "textile"],
+    "authors": [
+        {
+            "name": "Lee Bradley",
+            "email": "bradley.lee80@googlemail.com"
+        }
+    ]
+}
